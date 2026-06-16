@@ -6,8 +6,7 @@
 - 📄 Know about my experiences https://drive.google.com/file/d/19QWVNbFZ_J2NQ3CfB6F_8q9nfvPyHegL/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]
-(https://linkedin.com/in/www.linkedin.com/in/peerapol-panmuang-1135021b8)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,tailwind,spring,postgres)](https://skillicons.dev)
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/peerapol-panmuang-1135021b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/peerapol-panmuang-1135021b8" height="30" width="40" /></a>
 </p>
