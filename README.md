@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://linkedin.com/in/www.linkedin.com/in/peerapol-panmuang-1135021b8)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
